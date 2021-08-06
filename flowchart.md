@@ -1,6 +1,6 @@
 ---
 layout: "page"
-title: "Flow Chart"
+title: "FlowChart"
 permalink: /flowchart/
 image: /images/Flow1.png
 ---

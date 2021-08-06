@@ -1,8 +1,7 @@
 ---
-layout: "page"
+layout: page
 title: "About"
 permalink: /about/
-
 ---
 
 **Sean Andrew Chen**\

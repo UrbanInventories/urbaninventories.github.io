@@ -2,8 +2,8 @@
 layout: "page"
 title: "Data Visualizations"
 permalink: /datavisualizations/
----
 
+---
 
 
 ![Geometric Features](/images/GeometricFeatures.png){:class="img-responsive"}

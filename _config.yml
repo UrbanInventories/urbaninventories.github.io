@@ -28,7 +28,7 @@ permalink: /:permalink
 twitter_username: jekyllrb
 github_username:  jekyll
 # Build settings
-theme: jekyll-theme-minimal
+theme: jekyll-theme-minima
 plugins:
   - jekyll-feed
 

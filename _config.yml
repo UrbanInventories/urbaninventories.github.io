@@ -22,8 +22,8 @@ title: Classification of Urban Objects Using LiDAR Data
 email: glb321@nyu.edu
 description: >- # this means to ignore newlines until "baseurl:"
   As LiDAR technology becomes cheaper and more readily accessible, point cloud data of urban areas in tandem becomes not only more abundant but also of higher fidelity and resolution. This data can be of great use to city officials and planners for many purposes, including the inventorying and cataloging of objects within the urban and built environments – objects such as buildings, street furniture, traffic lights, and lampposts. To accomplish this inventorying, data scientists can utilize state of the art as well as conventional machine and deep learning techniques for urban object detection, segmentation, and classification. There are, however, more than a multitude of methods – each with specific advantages and disadvantages. This project will compile a database of these methods and analyze which are most adept at the detection, segmentation, and classification of urban objects using metrics tailored for the purpose of urban inventorying.
-baseurl: "" # the subpath of your site, e.g. /blog
-url: "" # the base hostname & protocol for your site, e.g. http://example.com
+baseurl: "ui" # the subpath of your site, e.g. /blog
+url: "https://urbaninventories.github.io" # the base hostname & protocol for your site, e.g. http://example.com
 twitter_username: jekyllrb
 github_username:  jekyll
 

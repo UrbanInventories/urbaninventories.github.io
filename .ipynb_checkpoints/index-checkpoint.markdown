@@ -3,7 +3,6 @@
 # To modify the layout, see https://jekyllrb.com/docs/themes/#overriding-theme-defaults
 
 layout: default
-
 ---
 
 ![Paris Lille](/images/Paris_Lille_3D_GT7.jpg){:class="img-responsive"}

@@ -15,7 +15,7 @@ Chen has an AB and MPA from the Princeton University School of Public and Intern
 
 **Gabriella Barrett**\
 Has recieved her double Bachelors of Science in Cartography & Geographical Information Systems and Statistics at the University of Wisconsin-Madison. She has worked as a GIS Developer at the Zayo group and is now working towards completing her Masters in the Center for Urban Science and Progress at New York Univeristy.\
-[Linkden](https://www.linkedin.com/in/gabriella-barrett-021702136/)
+[Linkedin](https://www.linkedin.com/in/gabriella-barrett-021702136/)
 
 **PROJECT SPONSER**
 
